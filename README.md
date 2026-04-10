@@ -125,7 +125,7 @@ npm run build
 
 ## 🔗 GitHub Repository
 
-👉 https://github.com/liku9/ShoppyGlobe
+👉https://github.com/liku9/ShoppyGlobe_Frontend
 
 ---
 
